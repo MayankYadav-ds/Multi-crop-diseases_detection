@@ -1,0 +1,18 @@
+# Local dataset
+/plantseg/
+
+# Python and notebook generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
