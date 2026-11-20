@@ -16,7 +16,6 @@ University AI/ML course project: one leaf photo → crop–disease label and sev
 
 - `report.docx`: names, roll numbers, submission date, genuine individual contributions, dataset/split counts, severity counts, mask-ratio comparison, parameter count, completed/best epochs, test accuracies and macro F1, TorchScript byte size and CPU timing. Add all five requested figure groups from the real notebook run, and update implementation status.
 - Verify reference authors, years, titles and identifiers; add reliable sources for PD2SE-Net, apple black rot and Plantix. Confirm whether the instructor wants the separate university template front matter; this report deliberately follows the requested 1–9 structure instead.
-- `viva_sheet.md`: replace result placeholders with observed values. Practice explaining the plots and limitations.
 - Save the executed notebook with outputs and download the actual trained model and metadata for the demo.
 
 ## Verification and scope
